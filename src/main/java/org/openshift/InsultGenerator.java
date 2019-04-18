@@ -7,9 +7,9 @@ import java.sql.Statement;
 
 public class InsultGenerator {
 	public String generateInsult() {
-		String words[][] = { { "Artless", "Bawdy", "Beslubbering" }, { "Base-court", "Bat-fowling", "Beef-witted" },
+/* 		String words[][] = { { "Artless", "Bawdy", "Beslubbering" }, { "Base-court", "Bat-fowling", "Beef-witted" },
 				{ "Apple-john", "Baggage", "Barnacle" } };
-		String vowels = "AEIOU";
+ */		String vowels = "AEIOU";
 		String article = "an";
 		String theInsult = "";
 
